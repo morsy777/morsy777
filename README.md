@@ -17,6 +17,11 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/abb5ef3d-d0c2-4470-8a9a-cce924dae275" alt="linq" width="40" height="40"/> 
+  </a>
+  
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
