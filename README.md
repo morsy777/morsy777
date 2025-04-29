@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Morsi</h1>
 <h3 align="center">Backend Engineer in the Making | IT Student @ Mansoura University | Passionate About AI & .NET</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core, Entity Framework and Clean Architecture**
+- 🌱 I’m currently learning **ASP.NET Core and Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/morsy777](https://github.com/morsy777)
 
