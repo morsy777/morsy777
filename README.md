@@ -52,3 +52,9 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
 </p>
+
+___
+
+<img alt="stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=morsy777&show_icons=true&theme=radical"/>
+
+<img alt="toplang" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsy777&hide_progress=true"/>
