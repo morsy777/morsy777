@@ -56,6 +56,6 @@
 ___
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morsy777&show_icons=true&theme=highcontrast" alt="Anurag's GitHub stats" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=morsy777&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </p>
 
