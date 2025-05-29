@@ -55,7 +55,7 @@
 
 ___
 
-<p align="center">
+<p align="left">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=morsy777&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </p>
 
